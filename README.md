@@ -1,5 +1,5 @@
 local args = {
-    [1] = game:GetService("Players").Name,
+    [1] = game:GetService("Players").jnf_nick122,
     [2] = "50000"
 }
 
